@@ -1,0 +1,48 @@
+body{
+margin: 0;
+font-size: 30px;
+}
+
+
+.top{
+text-align: center;
+background-image: url("bg4.jpg");
+background-size: 100% 100%;
+
+/* height: 100%; */
+
+padding: 300px;
+
+}
+#mainheading{
+  font-size: 50px;
+
+}
+
+#myimg{
+  height: 200px;
+  width: 200px;
+}
+.pro{
+  text-decoration:underline;
+}
+.skill1-img{
+  height: 100px;
+  width:100px;
+  padding: 20px;
+}
+.profile{
+  text-align: center;
+  padding: 20px;
+}
+.mid{
+text-align: center;
+
+}
+.down{
+text-align: center;
+
+}
+.contact-me{
+  padding: 20px;
+}
