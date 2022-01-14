@@ -1,6 +1,7 @@
 body{
 margin: 0;
 font-size: 30px;
+
 }
 
 
@@ -15,7 +16,20 @@ padding: 300px;
 
 }
 #mainheading{
-  font-size: 50px;
+  /* font-size: 50px; */
+  /* margin: 1em 0 0.5em 0;
+	color: #343434;
+	font-weight: normal;
+	font-family: 'Ultra', sans-serif;
+
+	line-height: 42px;
+	text-transform: uppercase;
+	text-shadow: 0 2px white, 0 3px #777; */
+  /* font-family: 'Dancing Script', cursive; */
+  font-family: 'Lobster', cursive;
+	font-size: 80px;
+	margin-bottom: 30px;
+
 
 }
 
@@ -33,10 +47,12 @@ padding: 300px;
 }
 .profile{
   text-align: center;
-  padding: 20px;
+  padding: 25px;
 }
 .mid{
 text-align: center;
+/* background-color: #CCF2F4; */
+background-color: #EFF8FF;
 
 }
 .down{
@@ -45,4 +61,20 @@ text-align: center;
 }
 .contact-me{
   padding: 20px;
+}
+.share{
+  font-size: 20px;
+}
+.footer{
+  font-size: 15px;
+  padding-top:20px;
+  word-spacing: 1px;
+
+}
+.bottom-container{
+  background-color: #79e0ff;
+  padding: 10px;
+  text-decoration-color: white;
+  word-spacing: 15px;
+
 }
